@@ -1,4 +1,4 @@
-Easy and simple way to tell if your computer is off.
+Easy and simple way to tell if your (Linux) computer is off.
 
 
 
