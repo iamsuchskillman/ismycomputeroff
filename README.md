@@ -14,6 +14,7 @@ git clone https://github.com/iamsuchskillman/ismycomputeroff.git
 
 How to use:
 
+cd ismycomputeroff
 
 chmod +x ismycomputeroff.sh
 
