@@ -2,11 +2,19 @@ Easy and simple way to tell if your computer is off.
 
 
 
+---------------------------------------------------------------------
 
 
 
+How to download:
 
-HOW TO USE:
 git clone https://github.com/iamsuchskillman/ismycoputeroff.git
-chomod +x ismycomputeroff.sh
+
+---------------------------------------------
+
+How to use
+
+
+chmod +x ismycomputeroff.sh
+
 ./ismycomputeroff.sh
