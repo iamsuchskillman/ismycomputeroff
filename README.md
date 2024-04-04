@@ -12,7 +12,7 @@ git clone https://github.com/iamsuchskillman/ismycoputeroff.git
 
 ---------------------------------------------
 
-How to use
+How to use:
 
 
 chmod +x ismycomputeroff.sh
